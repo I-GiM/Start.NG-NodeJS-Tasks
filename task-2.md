@@ -1,3 +1,3 @@
-# Screenshot of .exe files below
+# 1. Screenshot of .exe files below
 
-![Image 1] (Screenshot (1).png)
+![](Screenshot-1.png)
